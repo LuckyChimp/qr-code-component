@@ -7,8 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -21,11 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://luckychimp.github.io/qr-code-component/)
+- Solution URL: [https://luckychimp.github.io/qr-code-component/](https://luckychimp.github.io/qr-code-component/)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - SCSS for clean, easy and less CSS
