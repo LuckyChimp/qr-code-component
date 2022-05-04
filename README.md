@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [Built with](#built-with)
 - [Author](#author)
 
@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![screenshot of my project](./screenshot.png)
 
-### Links
+### Link
 
 - Solution URL: [https://luckychimp.github.io/qr-code-component/](https://luckychimp.github.io/qr-code-component/)
 
