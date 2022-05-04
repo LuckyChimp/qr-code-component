@@ -1,9 +1,8 @@
 * {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   font-weight: 300;
   color: #1f3251;
 }
@@ -14,55 +13,35 @@ p, span, div {
 
 body {
   height: 100vh;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
   background-color: #d6e2f0;
 }
-
 body .card {
-  width: calc(280px + (15px * 2));
-  display: -webkit-box;
-  display: -ms-flexbox;
+  width: 310px;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-flow: column wrap;
-          flex-flow: column wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
   padding: 1em;
   border: 1px solid #d6e2f0;
   border-radius: 16px;
   background-color: #ffffff;
-  -webkit-box-shadow: 0px 0px 10px 0px #dadada;
-          box-shadow: 0px 0px 10px 0px #dadada;
+  box-shadow: 0px 0px 10px 0px #dadada;
 }
-
 body .card * {
   margin-bottom: 1rem;
 }
-
 body .card .card-image {
   width: 280px;
   border-radius: 8px;
 }
-
 body .card .card-title {
   font-weight: 700;
+  font-size: 1.5em;
   text-align: center;
 }
-
 body .card .card-text {
   margin-bottom: 1.5em;
   color: #7b879d;
@@ -74,8 +53,6 @@ body .card .card-text {
   bottom: 1em;
   font-size: 11px;
 }
-
 .attribution a {
   color: #3e52a3;
-}
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
